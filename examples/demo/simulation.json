@@ -1,0 +1,4424 @@
+[
+  {
+    "t": 0.0,
+    "crossfader": -1.0,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.58537,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.04989,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.02,
+    "crossfader": -0.9899868038740792,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.60537,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.06932193471732061,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.04,
+    "crossfader": -0.9799736077481584,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.62537,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.08875386943464122,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.06,
+    "crossfader": -0.9699604116222377,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.64537,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.10818580415196183,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.08,
+    "crossfader": -0.9599472154963169,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.66537,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.12761773886928243,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.1,
+    "crossfader": -0.9499340193703961,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.68537,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.14704967358660304,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.12,
+    "crossfader": -0.9399208232444753,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.70537,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.16648160830392364,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.14,
+    "crossfader": -0.9299076271185546,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.725369999999998,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.18591354302124427,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.16,
+    "crossfader": -0.9198944309926338,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.745369999999998,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.20534547773856487,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.18,
+    "crossfader": -0.909881234866713,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.765369999999997,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.22477741245588548,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.2,
+    "crossfader": -0.8998680387407922,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.785369999999997,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.2442093471732061,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.22,
+    "crossfader": -0.8898548426148714,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.805369999999996,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.2636412818905267,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.24,
+    "crossfader": -0.8798416464889507,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.825369999999996,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.2830732166078473,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.26,
+    "crossfader": -0.8698284503630298,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.845369999999996,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.3025051513251679,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.28,
+    "crossfader": -0.859815254237109,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.865369999999995,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.32193708604248855,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.3,
+    "crossfader": -0.8498020581111883,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.885369999999995,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.3413690207598091,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.32,
+    "crossfader": -0.8397888619852675,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.905369999999994,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.36080095547712976,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.34,
+    "crossfader": -0.8297756658593467,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.925369999999994,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.3802328901944504,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.36,
+    "crossfader": -0.8197624697334259,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.945369999999993,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.39966482491177097,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.38,
+    "crossfader": -0.8097492736075051,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.965369999999993,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.4190967596290916,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.4,
+    "crossfader": -0.7997360774815844,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 18.985369999999993,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.43852869434641223,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.42,
+    "crossfader": -0.7897228813556636,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.005369999999992,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.4579606290637328,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.44,
+    "crossfader": -0.7797096852297428,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.02536999999999,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.47739256378105344,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.46,
+    "crossfader": -0.769696489103822,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.04536999999999,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.49682449849837407,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.48,
+    "crossfader": -0.7596832929779013,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.06536999999999,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.5162564332156947,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.5,
+    "crossfader": -0.7496700968519805,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.08536999999999,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.5356883679330153,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.52,
+    "crossfader": -0.7396569007260597,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.10536999999999,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.555120302650336,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.54,
+    "crossfader": -0.7296437046001389,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.12536999999999,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.5745522373676566,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.56,
+    "crossfader": -0.7196305084742181,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.14536999999999,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.5939841720849772,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.58,
+    "crossfader": -0.7096173123482974,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.16536999999999,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.6134161068022977,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.6,
+    "crossfader": -0.6996041162223766,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.18536999999999,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.6328480415196184,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.62,
+    "crossfader": -0.6895909200964558,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.205369999999988,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.652279976236939,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.64,
+    "crossfader": -0.679577723970535,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.225369999999987,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.6717119109542596,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.66,
+    "crossfader": -0.6695645278446143,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.245369999999987,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.6911438456715803,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.68,
+    "crossfader": -0.6595513317186934,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.265369999999987,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.7105757803889009,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.7000000000000001,
+    "crossfader": -0.6495381355927727,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.285369999999986,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.7300077151062215,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.72,
+    "crossfader": -0.6395249394668518,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.305369999999986,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.749439649823542,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.74,
+    "crossfader": -0.6295117433409312,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.325369999999985,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.7688715845408627,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.76,
+    "crossfader": -0.6194985472150103,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.345369999999985,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.7883035192581833,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.78,
+    "crossfader": -0.6094853510890896,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.365369999999984,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.807735453975504,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.8,
+    "crossfader": -0.5994721549631687,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.385369999999984,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.8271673886928246,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.8200000000000001,
+    "crossfader": -0.589458958837248,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.405369999999984,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.8465993234101452,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.84,
+    "crossfader": -0.5794457627113272,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.425369999999983,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.8660312581274657,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.86,
+    "crossfader": -0.5694325665854065,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.445369999999983,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.8854631928447864,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.88,
+    "crossfader": -0.5594193704594856,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.465369999999982,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.904895127562107,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.9,
+    "crossfader": -0.5494061743335649,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.485369999999982,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.9243270622794276,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.92,
+    "crossfader": -0.5393929782076441,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.50536999999998,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.9437589969967483,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.9400000000000001,
+    "crossfader": -0.5293797820817233,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.52536999999998,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.9631909317140689,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.96,
+    "crossfader": -0.5193665859558025,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.54536999999998,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 0.9826228664313894,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 0.98,
+    "crossfader": -0.5093533898298818,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.56536999999998,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.00205480114871,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.0,
+    "crossfader": -0.499340193703961,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.58536999999998,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.0214867358660307,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.02,
+    "crossfader": -0.4893269975780402,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.60536999999998,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.0409186705833513,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.04,
+    "crossfader": -0.47931380145211944,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.62536999999998,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.060350605300672,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.06,
+    "crossfader": -0.46930060532619866,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.64536999999998,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.0797825400179926,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.08,
+    "crossfader": -0.4592874092002778,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.665369999999978,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.0992144747353132,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.1,
+    "crossfader": -0.449274213074357,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.685369999999978,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.1186464094526338,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.12,
+    "crossfader": -0.4392610169484362,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.705369999999977,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.1380783441699545,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.1400000000000001,
+    "crossfader": -0.42924782082251545,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.725369999999977,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.157510278887275,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.16,
+    "crossfader": -0.4192346246965948,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.745369999999976,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.1769422136045955,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.18,
+    "crossfader": -0.409221428570674,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.765369999999976,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.1963741483219161,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.2,
+    "crossfader": -0.39920823244475323,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.785369999999975,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.2158060830392368,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.22,
+    "crossfader": -0.38919503631883245,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.805369999999975,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.2352380177565574,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.24,
+    "crossfader": -0.3791818401929117,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.825369999999975,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.254669952473878,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.26,
+    "crossfader": -0.3691686440669908,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.845369999999974,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.2741018871911987,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.28,
+    "crossfader": -0.35915544794107,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.865369999999974,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.2935338219085193,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.3,
+    "crossfader": -0.34914225181514924,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.885369999999973,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.31296575662584,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.32,
+    "crossfader": -0.33912905568922846,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.905369999999973,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.3323976913431606,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.34,
+    "crossfader": -0.3291158595633077,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.925369999999972,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.3518296260604812,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.36,
+    "crossfader": -0.3191026634373869,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.945369999999972,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.3712615607778018,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.3800000000000001,
+    "crossfader": -0.30908946731146614,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.96536999999997,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.3906934954951224,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.4000000000000001,
+    "crossfader": -0.29907627118554536,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 19.98536999999997,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.410125430212443,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.42,
+    "crossfader": -0.2890630750596246,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.00536999999997,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.4295573649297635,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.44,
+    "crossfader": -0.2790498789337038,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.02536999999997,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.4489892996470841,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.46,
+    "crossfader": -0.26903668280778303,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.04536999999997,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.4684212343644047,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.48,
+    "crossfader": -0.25902348668186226,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.06536999999997,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.4878531690817254,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.5,
+    "crossfader": -0.24901029055594148,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.08536999999997,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.507285103799046,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.52,
+    "crossfader": -0.2389970944300207,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.10536999999997,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.5267170385163666,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.54,
+    "crossfader": -0.22898389830409993,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.12536999999997,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.5461489732336873,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.56,
+    "crossfader": -0.21897070217817916,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.145369999999968,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.565580907951008,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.58,
+    "crossfader": -0.20895750605225827,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.165369999999967,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.5850128426683285,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.6,
+    "crossfader": -0.1989443099263375,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.185369999999967,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.6044447773856492,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.62,
+    "crossfader": -0.18893111380041672,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.205369999999967,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.6238767121029698,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.6400000000000001,
+    "crossfader": -0.17891791767449594,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.225369999999966,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.6433086468202904,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.6600000000000001,
+    "crossfader": -0.16890472154857517,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.245369999999966,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.662740581537611,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.68,
+    "crossfader": -0.1588915254226545,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.265369999999965,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.6821725162549315,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.7,
+    "crossfader": -0.14887832929673372,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.285369999999965,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.701604450972252,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.72,
+    "crossfader": -0.13886513317081295,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.305369999999964,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.7210363856895727,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.74,
+    "crossfader": -0.12885193704489206,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.325369999999964,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.7404683204068934,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.76,
+    "crossfader": -0.11883874091897129,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.345369999999964,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.759900255124214,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.78,
+    "crossfader": -0.10882554479305051,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.365369999999963,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.7793321898415346,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.8,
+    "crossfader": -0.09881234866712973,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.385369999999963,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.7987641245588553,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.82,
+    "crossfader": -0.08879915254120896,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.405369999999962,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.818196059276176,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.84,
+    "crossfader": -0.07878595641528818,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.425369999999962,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.8376279939934965,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.86,
+    "crossfader": -0.06877276028936741,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.44536999999996,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.8570599287108172,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.8800000000000001,
+    "crossfader": -0.05875956416344663,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.46536999999996,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.8764918634281378,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.9000000000000001,
+    "crossfader": -0.048746368037525856,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.48536999999996,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.8959237981454584,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.92,
+    "crossfader": -0.03873317191160508,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.50536999999996,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.9153557328627788,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.94,
+    "crossfader": -0.028719975785684304,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.52536999999996,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.9347876675800995,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.96,
+    "crossfader": -0.01870677965976353,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.54536999999996,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.95421960229742,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 1.98,
+    "crossfader": -0.008693583533842753,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.56536999999996,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.9736515370147407,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.0,
+    "crossfader": 0.0013196125920780233,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.58536999999996,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 1.9930834717320614,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.02,
+    "crossfader": 0.01133280871799891,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.605369999999958,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.0125154064493818,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.04,
+    "crossfader": 0.021346004843919575,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.625369999999958,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.031947341166702,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.06,
+    "crossfader": 0.03135920096984046,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.645369999999957,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.0513792758840226,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.08,
+    "crossfader": 0.041372397095761126,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.665369999999957,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.070811210601343,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.1,
+    "crossfader": 0.05138559322168201,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.685369999999956,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.0902431453186634,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.12,
+    "crossfader": 0.06139878934760268,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.705369999999956,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.109675080035984,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.14,
+    "crossfader": 0.07141198547352356,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.725369999999955,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.129107014753304,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.16,
+    "crossfader": 0.08142518159944445,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.745369999999955,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.1485389494706246,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.18,
+    "crossfader": 0.09143837772536512,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.765369999999955,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.167970884187945,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.2,
+    "crossfader": 0.101451573851286,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.785369999999954,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.1874028189052654,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.22,
+    "crossfader": 0.11146476997720667,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.805369999999954,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.206834753622586,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.24,
+    "crossfader": 0.12147796610312755,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.825369999999953,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.2262666883399063,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.2600000000000002,
+    "crossfader": 0.13149116222904822,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.845369999999953,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.2456986230572267,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.2800000000000002,
+    "crossfader": 0.1415043583549691,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.865369999999952,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.265130557774547,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.3000000000000003,
+    "crossfader": 0.15151755448088977,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.885369999999952,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.2845624924918675,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.32,
+    "crossfader": 0.16153075060681044,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.90536999999995,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.303994427209188,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.34,
+    "crossfader": 0.17154394673273132,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.92536999999995,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.3234263619265083,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.36,
+    "crossfader": 0.181557142858652,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.94536999999995,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.3428582966438287,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.38,
+    "crossfader": 0.19157033898457287,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.96536999999995,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.362290231361149,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.4,
+    "crossfader": 0.20158353511049354,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 20.98536999999995,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.3817221660784695,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.42,
+    "crossfader": 0.21159673123641443,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.00536999999995,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.40115410079579,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.44,
+    "crossfader": 0.2216099273623351,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.02536999999995,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.4205860355131104,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.46,
+    "crossfader": 0.23162312348825598,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.04536999999995,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.4400179702304308,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.48,
+    "crossfader": 0.24163631961417664,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.065369999999948,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.459449904947751,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.5,
+    "crossfader": 0.25164951574009753,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.085369999999948,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.4788818396650716,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.52,
+    "crossfader": 0.2616627118660184,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.105369999999947,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.498313774382392,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.54,
+    "crossfader": 0.2716759079919391,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.125369999999947,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.5177457090997124,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.56,
+    "crossfader": 0.28168910411785997,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.145369999999946,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.537177643817033,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.58,
+    "crossfader": 0.29170230024378063,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.165369999999946,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.5566095785343532,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.6,
+    "crossfader": 0.3017154963697015,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.185369999999946,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.5760415132516736,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.62,
+    "crossfader": 0.3117286924956222,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.205369999999945,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.595473447968994,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.64,
+    "crossfader": 0.32174188862154307,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.225369999999945,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.6149053826863145,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.66,
+    "crossfader": 0.33175508474746396,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.245369999999944,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.634337317403635,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.68,
+    "crossfader": 0.3417682808733846,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.265369999999944,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.6537692521209553,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.7,
+    "crossfader": 0.3517814769993055,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.285369999999944,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.6732011868382757,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.72,
+    "crossfader": 0.3617946731252262,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.305369999999943,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.692633121555596,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.74,
+    "crossfader": 0.37180786925114706,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.325369999999943,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.7120650562729165,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.7600000000000002,
+    "crossfader": 0.3818210653770677,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.345369999999942,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.731496990990237,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.7800000000000002,
+    "crossfader": 0.3918342615029886,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.365369999999942,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.7509289257075573,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.8000000000000003,
+    "crossfader": 0.4018474576289093,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.38536999999994,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.7703608604248777,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.82,
+    "crossfader": 0.41186065375482994,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.40536999999994,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.789792795142198,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.84,
+    "crossfader": 0.42187384988075083,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.42536999999994,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.8092247298595185,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.86,
+    "crossfader": 0.4318870460066715,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.44536999999994,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.828656664576839,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.88,
+    "crossfader": 0.4419002421325924,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.46536999999994,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.8480885992941594,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.9,
+    "crossfader": 0.45191343825851304,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.48536999999994,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.8675205340114798,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.92,
+    "crossfader": 0.46192663438443393,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.50536999999994,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.8869524687288,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.94,
+    "crossfader": 0.4719398305103546,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.52536999999994,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.9063844034461206,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.96,
+    "crossfader": 0.4819530266362755,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.545369999999938,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.925816338163441,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 2.98,
+    "crossfader": 0.49196622276219637,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.565369999999938,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.9452482728807614,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.0,
+    "crossfader": 0.501979418888117,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.585369999999937,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.964680207598082,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.02,
+    "crossfader": 0.5119926150140379,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.605369999999937,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 2.9841121423154022,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.04,
+    "crossfader": 0.5220058111399586,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.625369999999936,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.0035440770327226,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.06,
+    "crossfader": 0.5320190072658795,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.645369999999936,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.022976011750043,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.08,
+    "crossfader": 0.5420322033918001,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.665369999999935,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.0424079464673635,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.1,
+    "crossfader": 0.552045399517721,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.685369999999935,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.061839881184684,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.12,
+    "crossfader": 0.5620585956436417,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.705369999999935,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.0812718159020043,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.14,
+    "crossfader": 0.5720717917695626,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.725369999999934,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.1007037506193247,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.16,
+    "crossfader": 0.5820849878954835,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.745369999999934,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.120135685336645,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.18,
+    "crossfader": 0.5920981840214041,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.765369999999933,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.1395676200539655,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.2,
+    "crossfader": 0.602111380147325,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.785369999999933,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.158999554771286,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.22,
+    "crossfader": 0.6121245762732457,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.805369999999932,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.1784314894886063,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.24,
+    "crossfader": 0.6221377723991666,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.825369999999932,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.1978634242059267,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.2600000000000002,
+    "crossfader": 0.6321509685250872,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.84536999999993,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.217295358923247,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.2800000000000002,
+    "crossfader": 0.6421641646510081,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.86536999999993,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.2367272936405675,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.3000000000000003,
+    "crossfader": 0.6521773607769288,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.88536999999993,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.256159228357888,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.3200000000000003,
+    "crossfader": 0.6621905569028497,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.90536999999993,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.2755911630752084,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.34,
+    "crossfader": 0.6722037530287703,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.92536999999993,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.2950230977925288,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.36,
+    "crossfader": 0.682216949154691,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.94536999999993,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.314455032509849,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.38,
+    "crossfader": 0.6922301452806119,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.96536999999993,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.3338869672271696,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.4,
+    "crossfader": 0.7022433414065326,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 21.98536999999993,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.35331890194449,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.42,
+    "crossfader": 0.7122565375324534,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.005369999999928,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.3727508366618104,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.44,
+    "crossfader": 0.7222697336583741,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.025369999999928,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.392182771379131,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.46,
+    "crossfader": 0.732282929784295,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.045369999999927,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.4116147060964512,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.48,
+    "crossfader": 0.7422961259102159,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.065369999999927,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.4310466408137716,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.5,
+    "crossfader": 0.7523093220361365,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.085369999999926,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.450478575531092,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.52,
+    "crossfader": 0.7623225181620574,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.105369999999926,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.4699105102484125,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.54,
+    "crossfader": 0.7723357142879781,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.125369999999926,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.489342444965733,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.56,
+    "crossfader": 0.782348910413899,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.145369999999925,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.5087743796830533,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.58,
+    "crossfader": 0.7923621065398196,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.165369999999925,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.5282063144003737,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.6,
+    "crossfader": 0.8023753026657405,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.185369999999924,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.547638249117694,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.62,
+    "crossfader": 0.8123884987916612,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.205369999999924,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.5670701838350145,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.64,
+    "crossfader": 0.8224016949175821,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.225369999999923,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.586502118552335,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.66,
+    "crossfader": 0.832414891043503,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.245369999999923,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.6059340532696553,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.68,
+    "crossfader": 0.8424280871694236,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.265369999999923,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.6253659879869757,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.7,
+    "crossfader": 0.8524412832953445,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.285369999999922,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.644797922704296,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.72,
+    "crossfader": 0.8624544794212652,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.30536999999992,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.6642298574216166,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.74,
+    "crossfader": 0.8724676755471861,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.32536999999992,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.683661792138937,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.7600000000000002,
+    "crossfader": 0.8824808716731067,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.34536999999992,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.7030937268562574,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.7800000000000002,
+    "crossfader": 0.8924940677990276,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.36536999999992,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.722525661573578,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.8000000000000003,
+    "crossfader": 0.9025072639249483,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.38536999999992,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.741957596290898,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.8200000000000003,
+    "crossfader": 0.9125204600508692,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.40536999999992,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.7613895310082186,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.84,
+    "crossfader": 0.9225336561767898,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.42536999999992,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.780821465725539,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.86,
+    "crossfader": 0.9325468523027105,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.44536999999992,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.8002534004428594,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.88,
+    "crossfader": 0.9425600484286314,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.46536999999992,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.81968533516018,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.9,
+    "crossfader": 0.9525732445545521,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.485369999999918,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.8391172698775002,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.92,
+    "crossfader": 0.9625864406804729,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.505369999999917,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.8585492045948206,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.94,
+    "crossfader": 0.9725996368063936,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.525369999999917,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.877981139312141,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.96,
+    "crossfader": 0.9826128329323145,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.545369999999917,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.8974130740294615,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.98,
+    "crossfader": 0.9926260290582354,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.565369999999916,
+      "playing": true,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.916845008746782,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  },
+  {
+    "t": 3.9947285059616,
+    "crossfader": 1,
+    "a": {
+      "track_id": "1f16a715fb3b4e784d0d",
+      "duration": 24.0,
+      "position": 22.580098505961516,
+      "playing": false,
+      "volume": 1,
+      "rate": 1,
+      "loaded": true
+    },
+    "b": {
+      "track_id": "34f9662cfe818ecb351c",
+      "duration": 24.0,
+      "position": 3.931155177063256,
+      "playing": true,
+      "volume": 1,
+      "rate": 0.9715967358660306,
+      "loaded": true
+    }
+  }
+]

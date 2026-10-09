@@ -1,0 +1,172 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+  "versions": {
+    "numpy": "2.3.5",
+    "torch": "2.14.1",
+    "onnx": "1.23.2",
+    "onnxruntime": "1.31.0",
+    "essentia": "2.1b6.dev1389",
+    "mido": "1.3.3",
+    "python-rtmidi": "1.5.8"
+  },
+  "commands": [
+    {
+      "name": "unittest",
+      "argv": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "tests",
+        "-v"
+      ],
+      "exit_code": 0,
+      "seconds": 1.107
+    },
+    {
+      "name": "mapping",
+      "argv": [
+        "node",
+        "tests/test_mapping.js"
+      ],
+      "exit_code": 0,
+      "seconds": 0.103
+    },
+    {
+      "name": "demo",
+      "argv": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "-m",
+        "dj",
+        "demo",
+        "--out",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/demo"
+      ],
+      "exit_code": 0,
+      "seconds": 0.553
+    },
+    {
+      "name": "simulate",
+      "argv": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "-m",
+        "dj",
+        "simulate",
+        "--catalog",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/demo/catalog.sqlite",
+        "--plan",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/demo/plan.json",
+        "--out",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/trace.json"
+      ],
+      "exit_code": 0,
+      "seconds": 0.175
+    },
+    {
+      "name": "essentia",
+      "argv": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "-m",
+        "dj",
+        "analyze",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/demo/track_1.wav",
+        "--backend",
+        "essentia",
+        "--out",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/essentia.json"
+      ],
+      "exit_code": 0,
+      "seconds": 1.575
+    },
+    {
+      "name": "dataset",
+      "argv": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "-m",
+        "dj",
+        "dataset",
+        "--out",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/ml/data.npz",
+        "--samples",
+        "128"
+      ],
+      "exit_code": 0,
+      "seconds": 0.183
+    },
+    {
+      "name": "train",
+      "argv": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "-m",
+        "dj",
+        "train",
+        "--data",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/ml/data.npz",
+        "--out",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/ml/model.pt",
+        "--epochs",
+        "5"
+      ],
+      "exit_code": 0,
+      "seconds": 3.334
+    },
+    {
+      "name": "export",
+      "argv": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "-m",
+        "dj",
+        "export",
+        "--checkpoint",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/ml/model.pt",
+        "--out",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/ml/model.onnx"
+      ],
+      "exit_code": 0,
+      "seconds": 1.835
+    },
+    {
+      "name": "infer",
+      "argv": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "-m",
+        "dj",
+        "infer",
+        "--model",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/ml/model.onnx",
+        "--data",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/ml/data.npz",
+        "--out",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/ml/inference.json"
+      ],
+      "exit_code": 0,
+      "seconds": 0.216
+    },
+    {
+      "name": "gru-preview",
+      "argv": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+        "-m",
+        "dj",
+        "preview",
+        "--catalog",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/demo/catalog.sqlite",
+        "--plan",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/demo/plan.json",
+        "--onnx",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/ml/model.onnx",
+        "--out",
+        "/workspace/scratch/9b27dc972625/dj/results/rerun/ml/preview.wav"
+      ],
+      "exit_code": 0,
+      "seconds": 0.253
+    }
+  ],
+  "unverified": [
+    "real Mixxx/ALSA routing and audio",
+    "actual Qwen model",
+    "musical quality"
+  ]
+}

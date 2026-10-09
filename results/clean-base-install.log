@@ -1,0 +1,21 @@
+Obtaining file:///workspace/scratch/9b27dc972625/dj
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Checking if build backend supports build_editable: started
+  Checking if build backend supports build_editable: finished with status 'done'
+  Getting requirements to build editable: started
+  Getting requirements to build editable: finished with status 'done'
+  Preparing editable metadata (pyproject.toml): started
+  Preparing editable metadata (pyproject.toml): finished with status 'done'
+Collecting numpy<3,>=1.24 (from dj-offline-lab==0.1.0)
+  Downloading numpy-2.5.3-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl.metadata (6.6 kB)
+Downloading numpy-2.5.3-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (16.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 16.7/16.7 MB 54.4 MB/s eta 0:00:00
+Building wheels for collected packages: dj-offline-lab
+  Building editable for dj-offline-lab (pyproject.toml): started
+  Building editable for dj-offline-lab (pyproject.toml): finished with status 'done'
+  Created wheel for dj-offline-lab: filename=dj_offline_lab-0.1.0-0.editable-py3-none-any.whl size=1738 sha256=407c953a4058eaf779756e0f1f8fd2c72586c74a641c6499ccae07693d7e83b1
+  Stored in directory: /tmp/pip-ephem-wheel-cache-cl315ujp/wheels/80/ea/54/7069c8a7ae9a6bcd6e40c4313b46c97b14d9fc76039b276ea2
+Successfully built dj-offline-lab
+Installing collected packages: numpy, dj-offline-lab
+Successfully installed dj-offline-lab-0.1.0 numpy-2.5.3

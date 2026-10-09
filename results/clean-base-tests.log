@@ -1,0 +1,51 @@
+test_antiphase (test_core.AudioTests.test_antiphase) ... ok
+test_click_tempo (test_core.AudioTests.test_click_tempo) ... ok
+test_empty_wav (test_core.AudioTests.test_empty_wav) ... ok
+test_invalid_file (test_core.AudioTests.test_invalid_file) ... ok
+test_invalid_synth (test_core.AudioTests.test_invalid_synth) ... ok
+test_nonfinite (test_core.AudioTests.test_nonfinite) ... ok
+test_pcm24_sign (test_core.AudioTests.test_pcm24_sign) ... ok
+test_resample (test_core.AudioTests.test_resample) ... ok
+test_roundtrip_stereo (test_core.AudioTests.test_roundtrip_stereo) ... ok
+test_silence (test_core.AudioTests.test_silence) ... ok
+test_tiny_valid_signal (test_core.AudioTests.test_tiny_valid_signal) ... ok
+test_truncated (test_core.AudioTests.test_truncated) ... ok
+test_cli_plan_simulate (test_core.PipelineTests.test_cli_plan_simulate) ... ok
+test_compatibility (test_core.PipelineTests.test_compatibility) ... ok
+test_empty_planner (test_core.PipelineTests.test_empty_planner) ... ok
+test_modified_audio_rejected (test_core.PipelineTests.test_modified_audio_rejected) ... ok
+test_persistence_idempotent (test_core.PipelineTests.test_persistence_idempotent) ... ok
+test_plan_bounds (test_core.PipelineTests.test_plan_bounds) ... ok
+test_preview (test_core.PipelineTests.test_preview) ... ok
+test_qwen_network_timeout_fallback (test_core.PipelineTests.test_qwen_network_timeout_fallback) ... 2026-10-09 15:05:03,606 WARNING dj.planner Planner Qwen non disponibile/valido, fallback: test timeout
+ok
+test_qwen_restrict_remote (test_core.PipelineTests.test_qwen_restrict_remote) ... ok
+test_qwen_valid_invalid_selection (test_core.PipelineTests.test_qwen_valid_invalid_selection) ... 2026-10-09 15:05:03,608 WARNING dj.planner Planner Qwen non disponibile/valido, fallback: ID candidato non valido
+2026-10-09 15:05:03,609 WARNING dj.planner Planner Qwen non disponibile/valido, fallback: ID candidato non valido
+2026-10-09 15:05:03,610 WARNING dj.planner Planner Qwen non disponibile/valido, fallback: Expecting value: line 1 column 1 (char 0)
+ok
+test_scan_empty_and_invalid (test_core.PipelineTests.test_scan_empty_and_invalid) ... 2026-10-09 15:05:03,613 ERROR root ValueError: Nessun WAV trovato
+2026-10-09 15:05:03,615 ERROR root ValueError: Scan parziale: 1 file non importati; vedere JSON stdout
+ok
+test_simulation_endpoint (test_core.PipelineTests.test_simulation_endpoint) ... ok
+test_slow_safety_does_not_stop_a (test_core.PipelineTests.test_slow_safety_does_not_stop_a) ... ok
+test_atomic_json_rejects_nan (test_core.SafetyTests.test_atomic_json_rejects_nan) ... ok
+test_deck (test_core.SafetyTests.test_deck) ... ok
+test_invalid_config_json (test_core.SafetyTests.test_invalid_config_json) ... ok
+test_midi_complete_frames_timeout (test_core.SafetyTests.test_midi_complete_frames_timeout) ... ok
+test_midi_encoding (test_core.SafetyTests.test_midi_encoding) ... ok
+test_midi_incomplete_wrong_sequence (test_core.SafetyTests.test_midi_incomplete_wrong_sequence) ... ok
+test_nan_timeout (test_core.SafetyTests.test_nan_timeout) ... ok
+test_scheduler_order (test_core.SafetyTests.test_scheduler_order) ... ok
+test_slew_and_clip (test_core.SafetyTests.test_slew_and_clip) ... ok
+test_dataset_reproducible_disjoint_split (test_ml.DatasetTests.test_dataset_reproducible_disjoint_split) ... ok
+test_invalid_size (test_ml.DatasetTests.test_invalid_size) ... ok
+test_reject_corrupt_dataset (test_ml.DatasetTests.test_reject_corrupt_dataset) ... ok
+test_shape_and_target_range (test_ml.DatasetTests.test_shape_and_target_range) ... ok
+test_loopback_http_and_timeout (test_qwen_http.HttpPlannerTests.test_loopback_http_and_timeout) ... 2026-10-09 15:05:03,738 WARNING dj.planner Planner Qwen non disponibile/valido, fallback: timed out
+ok
+
+----------------------------------------------------------------------
+Ran 39 tests in 0.897s
+
+OK

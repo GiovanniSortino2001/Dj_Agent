@@ -1,0 +1,18 @@
+Defaulting to user installation because normal site-packages is not writeable
+Obtaining file:///workspace/scratch/9b27dc972625/dj
+  Checking if build backend supports build_editable: started
+  Checking if build backend supports build_editable: finished with status 'done'
+  Preparing editable metadata (pyproject.toml): started
+  Preparing editable metadata (pyproject.toml): finished with status 'done'
+Requirement already satisfied: numpy<3,>=1.24 in /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages (from dj-offline-lab==0.1.0) (2.3.5)
+Building wheels for collected packages: dj-offline-lab
+  Building editable for dj-offline-lab (pyproject.toml): started
+  Building editable for dj-offline-lab (pyproject.toml): finished with status 'done'
+  Created wheel for dj-offline-lab: filename=dj_offline_lab-0.1.0-0.editable-py3-none-any.whl size=1738 sha256=947c4f42a33d559040fb6099ce3cb2eaebacb02f1294761e7ac41bed20c79382
+  Stored in directory: /tmp/pip-ephem-wheel-cache-whbz45rr/wheels/80/ea/54/7069c8a7ae9a6bcd6e40c4313b46c97b14d9fc76039b276ea2
+Successfully built dj-offline-lab
+Installing collected packages: dj-offline-lab
+  WARNING: The script dj is installed in '/root/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed dj-offline-lab-0.1.0
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager, possibly rendering your system unusable. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv. Use the --root-user-action option if you know what you are doing and want to suppress this warning.

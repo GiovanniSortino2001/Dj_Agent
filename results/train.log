@@ -1,0 +1,108 @@
+{
+  "seed": 42,
+  "epochs": 20,
+  "history": [
+    {
+      "epoch": 1,
+      "train_mse": 0.29919071921280455,
+      "validation_mse": 0.21490508317947388
+    },
+    {
+      "epoch": 2,
+      "train_mse": 0.12143676940883909,
+      "validation_mse": 0.0428834930062294
+    },
+    {
+      "epoch": 3,
+      "train_mse": 0.051958947841610224,
+      "validation_mse": 0.043369606137275696
+    },
+    {
+      "epoch": 4,
+      "train_mse": 0.026620046102574894,
+      "validation_mse": 0.021189270541071892
+    },
+    {
+      "epoch": 5,
+      "train_mse": 0.020273428144199506,
+      "validation_mse": 0.01444648765027523
+    },
+    {
+      "epoch": 6,
+      "train_mse": 0.012310006522706576,
+      "validation_mse": 0.01169548835605383
+    },
+    {
+      "epoch": 7,
+      "train_mse": 0.010400384664535522,
+      "validation_mse": 0.008308462798595428
+    },
+    {
+      "epoch": 8,
+      "train_mse": 0.008042023251099246,
+      "validation_mse": 0.007663906551897526
+    },
+    {
+      "epoch": 9,
+      "train_mse": 0.0069300089962780476,
+      "validation_mse": 0.005968920886516571
+    },
+    {
+      "epoch": 10,
+      "train_mse": 0.005928950251213142,
+      "validation_mse": 0.005227864719927311
+    },
+    {
+      "epoch": 11,
+      "train_mse": 0.005187246748911483,
+      "validation_mse": 0.004811075981706381
+    },
+    {
+      "epoch": 12,
+      "train_mse": 0.004645451304635831,
+      "validation_mse": 0.004215476103127003
+    },
+    {
+      "epoch": 13,
+      "train_mse": 0.004215137700417212,
+      "validation_mse": 0.003864037338644266
+    },
+    {
+      "epoch": 14,
+      "train_mse": 0.003897345159202814,
+      "validation_mse": 0.0036555302795022726
+    },
+    {
+      "epoch": 15,
+      "train_mse": 0.0036543876797493014,
+      "validation_mse": 0.0033296772744506598
+    },
+    {
+      "epoch": 16,
+      "train_mse": 0.0033645288619611946,
+      "validation_mse": 0.0031226128339767456
+    },
+    {
+      "epoch": 17,
+      "train_mse": 0.0031886479950376917,
+      "validation_mse": 0.0029026642441749573
+    },
+    {
+      "epoch": 18,
+      "train_mse": 0.0030249797606042455,
+      "validation_mse": 0.0027162879705429077
+    },
+    {
+      "epoch": 19,
+      "train_mse": 0.0028106145494218382,
+      "validation_mse": 0.002524422248825431
+    },
+    {
+      "epoch": 20,
+      "train_mse": 0.002664473672796573,
+      "validation_mse": 0.002344920765608549
+    }
+  ],
+  "validation_mse": 0.002344920765608549,
+  "limitation": "Only imitation of synthetic crossfader ramps, not musical competence"
+}

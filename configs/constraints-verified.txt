@@ -1,0 +1,8 @@
+# Exact optional test environment; base also tested with NumPy 2.5.3 in isolated venv.
+numpy==2.3.5
+torch==2.14.1
+onnx==1.23.2
+onnxruntime==1.31.0
+essentia==2.1b6.dev1389
+mido==1.3.3
+python-rtmidi==1.5.8

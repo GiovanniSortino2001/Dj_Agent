@@ -1,0 +1,33 @@
+{
+  "seed": 42,
+  "epochs": 5,
+  "history": [
+    {
+      "epoch": 1,
+      "train_mse": 0.32118823379278183,
+      "validation_mse": 0.28106653690338135
+    },
+    {
+      "epoch": 2,
+      "train_mse": 0.2457440197467804,
+      "validation_mse": 0.18288999795913696
+    },
+    {
+      "epoch": 3,
+      "train_mse": 0.1368868611752987,
+      "validation_mse": 0.06169319525361061
+    },
+    {
+      "epoch": 4,
+      "train_mse": 0.04925859626382589,
+      "validation_mse": 0.05113549903035164
+    },
+    {
+      "epoch": 5,
+      "train_mse": 0.053872913122177124,
+      "validation_mse": 0.048454586416482925
+    }
+  ],
+  "validation_mse": 0.048454586416482925,
+  "limitation": "Only imitation of synthetic crossfader ramps, not musical competence"
+}

@@ -1,0 +1,9 @@
+{
+  "analysis_backend": "auto",
+  "controller_hz": 50,
+  "max_crossfader_slew": 1.0,
+  "feedback_timeout": 0.5,
+  "qwen_endpoint": "http://127.0.0.1:8000/v1/chat/completions",
+  "qwen_model": "Qwen/Qwen3-4B",
+  "qwen_timeout": 10
+}

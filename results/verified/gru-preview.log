@@ -1,0 +1,9 @@
+{
+  "sample_rate": 22050,
+  "frames": 88084,
+  "duration": 3.9947392290249435,
+  "peak_before_limiter": 0.4938492147413898,
+  "global_peak_gain": 1,
+  "peak_after_limiter": 0.4938492147413898,
+  "note": "Solo sovrapposizione; resampling lineare altera pitch, non time-stretch professionale"
+}

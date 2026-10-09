@@ -1,0 +1,14 @@
+{
+  "seed": 42,
+  "n": 128,
+  "train": 102,
+  "validation": 26,
+  "features": [
+    "progress",
+    "energy_a",
+    "energy_b",
+    "phase_error",
+    "tempo_error"
+  ],
+  "target": "crossfader [-1,1] from deterministic rule; synthetic behavioral cloning only"
+}

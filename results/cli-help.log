@@ -1,0 +1,14 @@
+usage: dj [-h] [--version] [--config CONFIG] [--log LOG]
+          {demo,synth,analyze,scan,catalog,compare,plan,preview,simulate,dataset,train,export,infer,midi-serve,midi-fade}
+          ...
+
+DJ offline lab — demo senza hardware
+
+positional arguments:
+  {demo,synth,analyze,scan,catalog,compare,plan,preview,simulate,dataset,train,export,infer,midi-serve,midi-fade}
+
+options:
+  -h, --help            show this help message and exit
+  --version             show program's version number and exit
+  --config CONFIG       File JSON, es. configs/default.json
+  --log LOG             File log UTF-8 (stderr resta attivo)

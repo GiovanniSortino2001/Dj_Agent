@@ -1,0 +1,314 @@
+[
+  {
+    "id": "1f16a715fb3b4e784d0d",
+    "path": "../examples/demo/track_1.wav",
+    "duration": 24.0,
+    "sample_rate": 22050,
+    "backend": "numpy",
+    "silent": false,
+    "bpm": 120.15835351104937,
+    "tempo_confidence": 0.8203659820197309,
+    "beats": [
+      0.10975,
+      0.60909,
+      1.10843,
+      1.60777,
+      2.10711,
+      2.60646,
+      3.1058,
+      3.60514,
+      4.10448,
+      4.60382,
+      5.10316,
+      5.6025,
+      6.10184,
+      6.60118,
+      7.10053,
+      7.59987,
+      8.09921,
+      8.59855,
+      9.09789,
+      9.59723,
+      10.09657,
+      10.59591,
+      11.09525,
+      11.5946,
+      12.09394,
+      12.59328,
+      13.09262,
+      13.59196,
+      14.0913,
+      14.59064,
+      15.08998,
+      15.58932,
+      16.08866,
+      16.58801,
+      17.08735,
+      17.58669,
+      18.08603,
+      18.58537,
+      19.08471,
+      19.58405,
+      20.08339,
+      20.58273,
+      21.08208,
+      21.58142,
+      22.08076,
+      22.5801,
+      23.07944,
+      23.57878
+    ],
+    "key": "C major",
+    "key_pc": 0,
+    "mode": "major",
+    "key_confidence": 0.2579733149392851,
+    "energy": 0.08905668978586027,
+    "energy_confidence": 1.0,
+    "structure": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "energy": 0.07626728397345643,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "energy": 0.07629983470829849,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "energy": 0.07635347805426065,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "energy": 0.09890211493892838,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 8.0,
+        "end": 10.0,
+        "energy": 0.0993548357531969,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 10.0,
+        "end": 12.0,
+        "energy": 0.09872597954359175,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 12.0,
+        "end": 14.0,
+        "energy": 0.0990249184098816,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 14.0,
+        "end": 16.0,
+        "energy": 0.09840052734835451,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 16.0,
+        "end": 18.0,
+        "energy": 0.09896794134190147,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 18.0,
+        "end": 20.0,
+        "energy": 0.08005629918843202,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 20.0,
+        "end": 22.0,
+        "energy": 0.07929966546748762,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 22.0,
+        "end": 24.0,
+        "energy": 0.07952597403641644,
+        "label": "mid_energy",
+        "confidence": 0.25
+      }
+    ],
+    "structure_confidence": 0.25,
+    "vocals": null,
+    "confidence_note": "Indici euristici non calibrati; energy è RMS misurato; vocals non stimata"
+  },
+  {
+    "id": "34f9662cfe818ecb351c",
+    "path": "../examples/demo/track_2.wav",
+    "duration": 24.0,
+    "sample_rate": 22050,
+    "backend": "numpy",
+    "silent": false,
+    "bpm": 123.67101398703907,
+    "tempo_confidence": 0.5941382719001356,
+    "beats": [
+      0.04989,
+      0.53504,
+      1.0202,
+      1.50536,
+      1.99052,
+      2.47568,
+      2.96084,
+      3.44599,
+      3.93115,
+      4.41631,
+      4.90147,
+      5.38663,
+      5.87178,
+      6.35694,
+      6.8421,
+      7.32726,
+      7.81242,
+      8.29758,
+      8.78273,
+      9.26789,
+      9.75305,
+      10.23821,
+      10.72337,
+      11.20852,
+      11.69368,
+      12.17884,
+      12.664,
+      13.14916,
+      13.63431,
+      14.11947,
+      14.60463,
+      15.08979,
+      15.57495,
+      16.06011,
+      16.54526,
+      17.03042,
+      17.51558,
+      18.00074,
+      18.4859,
+      18.97105,
+      19.45621,
+      19.94137,
+      20.42653,
+      20.91169,
+      21.39685,
+      21.882,
+      22.36716,
+      22.85232,
+      23.33748,
+      23.82264
+    ],
+    "key": "G major",
+    "key_pc": 7,
+    "mode": "major",
+    "key_confidence": 0.38323710896990937,
+    "energy": 0.09017064006707096,
+    "energy_confidence": 1.0,
+    "structure": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "energy": 0.07593293642048336,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "energy": 0.08313431609967774,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "energy": 0.07730032173572873,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "energy": 0.09871753879818322,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 8.0,
+        "end": 10.0,
+        "energy": 0.09844679273536712,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 10.0,
+        "end": 12.0,
+        "energy": 0.09891851386812316,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 12.0,
+        "end": 14.0,
+        "energy": 0.09887059094311793,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 14.0,
+        "end": 16.0,
+        "energy": 0.09886203327120167,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 16.0,
+        "end": 18.0,
+        "energy": 0.09883330634643613,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 18.0,
+        "end": 20.0,
+        "energy": 0.08716441273408561,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 20.0,
+        "end": 22.0,
+        "energy": 0.0800539710962393,
+        "label": "mid_energy",
+        "confidence": 0.25
+      },
+      {
+        "start": 22.0,
+        "end": 24.0,
+        "energy": 0.07982029859006343,
+        "label": "mid_energy",
+        "confidence": 0.25
+      }
+    ],
+    "structure_confidence": 0.25,
+    "vocals": null,
+    "confidence_note": "Indici euristici non calibrati; energy è RMS misurato; vocals non stimata"
+  }
+]

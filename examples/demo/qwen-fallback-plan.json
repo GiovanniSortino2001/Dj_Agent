@@ -1,0 +1,23 @@
+{
+  "a": "1f16a715fb3b4e784d0d",
+  "b": "34f9662cfe818ecb351c",
+  "start_a": 18.58537,
+  "start_b": 0.04989,
+  "duration": 3.9947285059616,
+  "beats": 8,
+  "rate_b": 0.9715967358660306,
+  "score": 0.7942870624620524,
+  "confidence": 0.5941382719001356,
+  "curve": "equal_power",
+  "compatibility": {
+    "eligible": true,
+    "score": 0.7942870624620524,
+    "rate_b": 0.9715967358660306,
+    "tempo_score": 0.7496533239503024,
+    "harmonic_score": 0.8,
+    "energy_score": 0.9876461974720142,
+    "confidence": 0.5941382719001356,
+    "reason": "Compatibilità euristica; ricampionamento preview altera tonalità"
+  },
+  "planner_status": "deterministic_fallback"
+}

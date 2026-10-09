@@ -1,0 +1,23 @@
+[
+  {
+    "path": "track_1.wav",
+    "bpm": 120.0,
+    "root_pc": 0,
+    "seconds": 24.0,
+    "seed": 0
+  },
+  {
+    "path": "track_2.wav",
+    "bpm": 124.0,
+    "root_pc": 7,
+    "seconds": 24.0,
+    "seed": 1
+  },
+  {
+    "path": "track_3.wav",
+    "bpm": 128.0,
+    "root_pc": 2,
+    "seconds": 24.0,
+    "seed": 2
+  }
+]

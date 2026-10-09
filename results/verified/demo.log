@@ -1,0 +1,11 @@
+{
+  "output": "/workspace/scratch/9b27dc972625/dj/results/rerun/demo",
+  "tracks": 3,
+  "candidates": 12,
+  "preview": "/workspace/scratch/9b27dc972625/dj/results/rerun/demo/preview.wav",
+  "bpm_estimates": [
+    120.158,
+    123.671,
+    127.952
+  ]
+}

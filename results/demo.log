@@ -1,0 +1,11 @@
+{
+  "output": "examples/demo",
+  "tracks": 3,
+  "candidates": 12,
+  "preview": "examples/demo/preview.wav",
+  "bpm_estimates": [
+    120.158,
+    123.671,
+    127.952
+  ]
+}

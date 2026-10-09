@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "source_import": "unzip-check/dj/src/dj/__init__.py",
+  "runtime": "isolated base venv, NumPy only",
+  "command": "PYTHONPATH=src python -m dj preview --catalog examples/demo/catalog.sqlite --plan examples/demo/plan.json --out relocated-preview.wav",
+  "exit_code": 0,
+  "frames": 88084,
+  "peak": 0.4731691929843795,
+  "zip_crc": "passed"
+}
